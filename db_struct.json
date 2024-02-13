@@ -1,0 +1,13 @@
+{
+    "name": "string",
+    "table": "number betwen 1 and 8 (included) for games, between 1 and 10 (included) for painting",
+    "type": "string (gaming or painting)",
+    "participants": "ids discord des joueurs",
+    "gameType": "string or null",
+    "point": "number or null",
+    "version": "string or null implémenter plus tard",
+    "exception": "boolean, is the game an apocalypse or something else",
+    "date": "datetime -> dd/mm/yyyy",
+    "startHour": "datetime hh:mm",
+    "endHour": "datetime hh:mm"
+}

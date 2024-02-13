@@ -1,0 +1,19 @@
+{
+  "name": "multiverse-bot",
+  "version": "1.0.0",
+  "description": "A cool bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.3.1",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "googleapis": "^112.0.0",
+    "sequelize": "^6.29.3",
+    "sqlite3": "^5.1.6"
+  }
+}
